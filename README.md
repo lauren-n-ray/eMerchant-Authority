@@ -19,17 +19,6 @@ Welcome to the eMerchant Authority GitHub repository, your comprehensive hub for
 7. **Community Engagement:** Join our community discussions, share your experiences, and stay updated on the latest trends in the payment industry. Contribute to ongoing discussions and learn from other business owners and enthusiasts.
 
 
-
-1. [Merchant Account Services](merchant-account-services/README.md)
-2. [Payment Processing Solutions](payment-processing-solutions/README.md)
-3. [High-Risk Merchant Account](high-risk-merchant-account/README.md)
-4. [Payment Security and Risk Management](payment-security-and-risk/README.md)
-5. [Cash Discount and Surcharging](cash-discount-surcharging/README.md)
-6. [Industry-Specific Merchant Guides](industry-merchant-guides/README.md)
-7. [Community Engagement](community-engagement/README.md)
-
-
-
 ## Getting Started
 
 To explore any specific section, simply navigate to the corresponding directory in this repository. We invite you to engage, contribute, and leverage the wealth of resources offered by eMerchant Authority.
